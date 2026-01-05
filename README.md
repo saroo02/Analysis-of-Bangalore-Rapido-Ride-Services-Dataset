@@ -82,6 +82,4 @@ The dataset contains ride-level information such as:
 - Digital payment methods are widely used
 - Monthly ride demand shows noticeable fluctuations
 
-Please ⭐ star the repository and share your feedback!
-# Analysis-of-Wall-mart-Retail-Time-Series-Dataset
-# -Analysis-of-Bangalore-Rapido-Ride-Services-Dataset
+
